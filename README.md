@@ -105,7 +105,7 @@ git clone https://github.com/Phuc4D/TrappingGame.git
 # Open in Unity Hub — requires Unity 6.x
 ```
 
-Or **[play directly in browser](https://phuc4d.itch.io/trappinggame)** — no download needed.
+Or **[play directly in browser](https://phuc4d.itch.io/trappingame)** — no download needed.
 
 ---
 
