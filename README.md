@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20WebGL-blue)
 ![Status](https://img.shields.io/badge/Status-Playable-brightgreen)
 
-**[▶ Play in Browser](https://phuc4d.itch.io/trappinggame)** · **[View Source](https://github.com/Phuc4D/TrappingGame)**
+**[▶ Play in Browser](https://phuc4d.itch.io/trappingame)** · **[View Source](https://github.com/Phuc4D/TrappingGame)**
 
 ---
 
