@@ -1,0 +1,3 @@
+[submodule ".agent/antigravity"]
+	path = .agent/antigravity
+	url = https://github.com/nlelouche/Unity3D-AntiGravitySkills.git

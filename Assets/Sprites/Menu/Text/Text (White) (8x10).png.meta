@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: a3bfd18a27d10d44b8beab15a8730118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 685122393223541077
+    second: Text (White) (8x10)_0
+  - first:
+      213: 4023848876748261347
+    second: Text (White) (8x10)_1
+  - first:
+      213: 6462030784949571910
+    second: Text (White) (8x10)_2
+  - first:
+      213: -8966770476715569383
+    second: Text (White) (8x10)_3
+  - first:
+      213: 8892430767788079939
+    second: Text (White) (8x10)_4
+  - first:
+      213: 1949440252828874971
+    second: Text (White) (8x10)_5
+  - first:
+      213: -1795438771938332281
+    second: Text (White) (8x10)_6
+  - first:
+      213: 8059085383239709721
+    second: Text (White) (8x10)_7
+  - first:
+      213: 2789786716654241412
+    second: Text (White) (8x10)_8
+  - first:
+      213: 7109231091390693025
+    second: Text (White) (8x10)_9
+  - first:
+      213: -7932998582275359019
+    second: Text (White) (8x10)_10
+  - first:
+      213: 8933076088729972674
+    second: Text (White) (8x10)_11
+  - first:
+      213: -7337053005757107293
+    second: Text (White) (8x10)_12
+  - first:
+      213: 1659441960456878946
+    second: Text (White) (8x10)_13
+  - first:
+      213: 8629520446218904154
+    second: Text (White) (8x10)_14
+  - first:
+      213: -8621661222217225989
+    second: Text (White) (8x10)_15
+  - first:
+      213: -2132658830488583136
+    second: Text (White) (8x10)_16
+  - first:
+      213: 4622650349989397577
+    second: Text (White) (8x10)_17
+  - first:
+      213: 547626505534991949
+    second: Text (White) (8x10)_18
+  - first:
+      213: 194056390122909075
+    second: Text (White) (8x10)_19
+  - first:
+      213: 909706326403956102
+    second: Text (White) (8x10)_20
+  - first:
+      213: -4756353758665019654
+    second: Text (White) (8x10)_21
+  - first:
+      213: -8635545001333166690
+    second: Text (White) (8x10)_22
+  - first:
+      213: 4269021617004001495
+    second: Text (White) (8x10)_23
+  - first:
+      213: -9188294632836950541
+    second: Text (White) (8x10)_24
+  - first:
+      213: 8035208366040656173
+    second: Text (White) (8x10)_25
+  - first:
+      213: 8764396655406337263
+    second: Text (White) (8x10)_26
+  - first:
+      213: 8160623382891825922
+    second: Text (White) (8x10)_27
+  - first:
+      213: -4497676987877105629
+    second: Text (White) (8x10)_28
+  - first:
+      213: 964366815532639917
+    second: Text (White) (8x10)_29
+  - first:
+      213: 8812821115940284866
+    second: Text (White) (8x10)_30
+  - first:
+      213: 7477885839146626811
+    second: Text (White) (8x10)_31
+  - first:
+      213: 789244330040722640
+    second: Text (White) (8x10)_32
+  - first:
+      213: -7780313578158858303
+    second: Text (White) (8x10)_33
+  - first:
+      213: 1888165885814222197
+    second: Text (White) (8x10)_34
+  - first:
+      213: 6022601364531355760
+    second: Text (White) (8x10)_35
+  - first:
+      213: 3154150665533675380
+    second: Text (White) (8x10)_36
+  - first:
+      213: -3298405975739735163
+    second: Text (White) (8x10)_37
+  - first:
+      213: -3764269671710618991
+    second: Text (White) (8x10)_38
+  - first:
+      213: -7402486445360761152
+    second: Text (White) (8x10)_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text (White) (8x10)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08eec62489a714bb71034defe72865
+      internalID: -862583747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e757759961c3c7c4f9dab64ec2c3dac0
+      internalID: -1681154865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7bdc8aa6d940479528033d6b9ee58
+      internalID: -2068249190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3eeb15ff16526479caaa8db154bdac
+      internalID: 1429754354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbf640761ea0214cb6df05ab0bce2ac
+      internalID: 2111410181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e5065091999a45b09bbe55dadd722
+      internalID: 1373448347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6686e29c51244438cdacf6ff0e9aef
+      internalID: -164867659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea08602bcfeed45921f7e75f745c32
+      internalID: -149175853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 41
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bb258e09c79d84aaf602371465aa5c
+      internalID: -821964629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e80a7765e0c69419adea01228e870e
+      internalID: -185137963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5646f23d771d34ca72eb0005579fdf
+      internalID: -402479841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e66c646900c3e4fa4248b95c207000
+      internalID: -1015030174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab27fafec9b0414e9ef3ae09c4a6a24
+      internalID: -1089823321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e258c296065eb48b7acf71cdceb094
+      internalID: -2111816946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53ed5f14d21a449807738002c94518
+      internalID: -1088549431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9b4afc8c632c43bc5878dad065a4f
+      internalID: 781240815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5695de2d1c5a459b5a36b3a11bc5e
+      internalID: -110153172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806050fe2ebc89c4ab8254e0c8252e08
+      internalID: -1727713580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a363e7777329264284868f19c19cce0
+      internalID: 1490460369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fab1b24848b4742aa64e4b7963b99b
+      internalID: 435891444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec08e6daa4d11448b3fd1297346ce3e
+      internalID: -377923029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf50eccce737864a9762ff7ce162a03
+      internalID: 617646500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077910d81b06844c973f32bdfa5a656
+      internalID: -1762777954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2823535592d4fb418e9a5f535f91df1
+      internalID: -1313222441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa419d2563e80448a53302d15832486
+      internalID: 883508599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb65c911c61c9e48a7fbdad27af0a43
+      internalID: 1367952527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ddbb863c878645ae22a9d7a7c524b
+      internalID: 513288716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e475487e19036884f8b54b443a25b905
+      internalID: 619784967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8553bbe5a0f4045803aa9b4d7950dd
+      internalID: 444688871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fdba7db4fc00c4f9fc01c0d6c94b5f
+      internalID: 494160760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9769bfb558b5d4d801c8cc52f7e193
+      internalID: -1435821545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835feffe15ed0234294f9243a0129c01
+      internalID: 454348337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc623891471ecde4ab0ee830a986575c
+      internalID: 436224411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd0bc799c0425645a3e3dc143feebbb
+      internalID: 1722608731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1303f9d8c1d4c54bae488b151947a83
+      internalID: -757944555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03b40b2a48979e42a9fe88e1e29bf3b
+      internalID: -705187923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46170ad89c00b46bb79b770bd6cfbb
+      internalID: -1147441526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc62d3fff16e84787b32bccdd2e4e4
+      internalID: -211423763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac367c21d35a94c8ad3d34986d227b
+      internalID: 989805560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text (White) (8x10)_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57df551b55784847b43edca5d9f2ab5
+      internalID: 1165968646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69d34e4fc79e1de409fab9b9a5975e39
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text (White) (8x10)_0: -862583747
+      Text (White) (8x10)_1: -1681154865
+      Text (White) (8x10)_10: -402479841
+      Text (White) (8x10)_11: -1015030174
+      Text (White) (8x10)_12: -1089823321
+      Text (White) (8x10)_13: -2111816946
+      Text (White) (8x10)_14: -1088549431
+      Text (White) (8x10)_15: 781240815
+      Text (White) (8x10)_16: -110153172
+      Text (White) (8x10)_17: -1727713580
+      Text (White) (8x10)_18: 1490460369
+      Text (White) (8x10)_19: 435891444
+      Text (White) (8x10)_2: -2068249190
+      Text (White) (8x10)_20: -377923029
+      Text (White) (8x10)_21: 617646500
+      Text (White) (8x10)_22: -1762777954
+      Text (White) (8x10)_23: -1313222441
+      Text (White) (8x10)_24: 883508599
+      Text (White) (8x10)_25: 1367952527
+      Text (White) (8x10)_26: 513288716
+      Text (White) (8x10)_27: 619784967
+      Text (White) (8x10)_28: 444688871
+      Text (White) (8x10)_29: 494160760
+      Text (White) (8x10)_3: 1429754354
+      Text (White) (8x10)_30: -1435821545
+      Text (White) (8x10)_31: 454348337
+      Text (White) (8x10)_32: 436224411
+      Text (White) (8x10)_33: 1722608731
+      Text (White) (8x10)_34: -757944555
+      Text (White) (8x10)_35: -705187923
+      Text (White) (8x10)_36: -1147441526
+      Text (White) (8x10)_37: -211423763
+      Text (White) (8x10)_38: 989805560
+      Text (White) (8x10)_39: 1165968646
+      Text (White) (8x10)_4: 2111410181
+      Text (White) (8x10)_5: 1373448347
+      Text (White) (8x10)_6: -164867659
+      Text (White) (8x10)_7: -149175853
+      Text (White) (8x10)_8: -821964629
+      Text (White) (8x10)_9: -185137963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
